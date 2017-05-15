@@ -1,2 +1,2 @@
 # Pystm
-really simple state machine lib.
+This is a really simple state machine lib.
